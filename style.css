@@ -1,18 +1,3 @@
-websiteN {
-      font-weight: 700;
-    font-size: 64px;
-    line-height: 82px;
-    text-transform: capitalize;
-    background: linear-gradient(97.64deg,#eaaaff 15.56%,#b5acff 92.85%);
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
-    background-clip: text;
-    text-fill-color: transparent;
-      text-align: center;
-      
-     
-
-
 * {
   padding: 0;
   margin: 0;
