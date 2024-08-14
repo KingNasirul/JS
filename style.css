@@ -8,7 +8,19 @@
 body {
   background-color: #ffc13d;
 }
-
+h1 { 
+      font-weight: 700;
+    font-size: 64px;
+    line-height: 82px;
+    text-transform: capitalize;
+    background: linear-gradient(97.64deg,#eaaaff 15.56%,#b5acff 92.85%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    text-fill-color: transparent;
+      text-align: center;
+}
+  
 .container {
   width: 31.25em;
   background-color: #f8f8f8;
